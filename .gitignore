@@ -1,0 +1,6 @@
+db/
+config/__pycache__/
+document_metadata.json
+document_repository/
+uploaded_documents/
+utils/__pycache__/

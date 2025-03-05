@@ -1,0 +1,12 @@
+streamlit
+langchain
+chromadb
+ollama
+sentence-transformers
+unstructured
+python-docx
+pypdf2
+docx2txt
+psutil
+pandas
+pdfminer.six
