@@ -2,7 +2,7 @@
 
 # Enhanced RAG System 
 
-This project is an advanced Retrieval-Augmented Generation (RAG) system built with Streamlit, LangChain, and Ollama. It is allowing users to upload documents  and query them to get an accurate results based on the context of the uploaded document.
+This project is an advanced Retrieval-Augmented Generation (RAG) system built with Streamlit, LangChain, and Ollama. It is allowing users to upload documents and query them to get accurate and reliable results based on the context of the uploaded document.
 
 ## 🌟 Features
 
