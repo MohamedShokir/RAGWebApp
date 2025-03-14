@@ -34,15 +34,13 @@ This project is an advanced Retrieval-Augmented Generation (RAG) system built wi
 
 ### 💻 Usage
 Select Model:
-
 Choose from installed Ollama models.
 Select embedding model for document processing.
-Upload Documents:
 
+Upload Documents:
 Upload documents to a collection.
 
 Ask Questions:
-
 Enter queries about your documents.
 Get AI-generated responses based on document content.
 
